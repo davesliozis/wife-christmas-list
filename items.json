@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pura-vida",
+    "title": "Red & Navy Original Bracelet",
+    "brand": "Pura Vida",
+    "category": "Jewelry & Accessories",
+    "price": "$8",
+    "status": "In stock",
+    "detail": "Original Bracelet \u00b7 Red & Navy \u00b7 Adjustable",
+    "description": "A handmade string bracelet in red and navy. The original style is selected in your saved link.",
+    "url": "https://www.puravidabracelets.com/products/red-navy-collection?variant=42554703380566",
+    "image": "https://www.puravidabracelets.com/cdn/shop/files/10BRXX1021RENA_1.jpg?v=1725676434&width=1600"
+  },
+  {
+    "id": "ink-alloy",
+    "title": "Jenna Chain Link Beaded Necklace",
+    "brand": "INK+ALLOY",
+    "category": "Jewelry & Accessories",
+    "price": "$40",
+    "status": "Currently sold out",
+    "detail": "Navy \u00b7 18 inches + 0.75-inch extension",
+    "description": "Handwoven navy glass beads form the chain links, with an adjustable closure.",
+    "url": "https://inkalloy.com/products/sbnk1400na",
+    "image": "https://inkalloy.com/cdn/shop/files/jenna-chain-link-beaded-necklace-navy-sbnk1400na-1253593783.jpg?v=1786142650&width=1296"
+  },
+  {
+    "id": "livefull",
+    "title": "Smart Hot Facial Towel Warmer CL01",
+    "brand": "LiveFull",
+    "category": "Home & Comfort",
+    "price": "From $129.90",
+    "status": "In stock",
+    "detail": "White \u00b7 Standard bundle includes 20 compressed towels",
+    "description": "A compact plug-in warmer that prepares and dispenses warm, moist facial towels. Bundle to confirm.",
+    "url": "https://livefull.shop/products/livefull-towel-warmer-cl01",
+    "image": "https://livefull.shop/cdn/shop/files/LiveFull_Smart_Hot_Facial_Towel_Warmer-CL01-B.jpg?v=1784800474&width=150"
+  }
+]
