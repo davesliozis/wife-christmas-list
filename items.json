@@ -33,6 +33,32 @@
     "detail": "White \u00b7 Standard bundle includes 20 compressed towels",
     "description": "A compact plug-in warmer that prepares and dispenses warm, moist facial towels. Bundle to confirm.",
     "url": "https://livefull.shop/products/livefull-towel-warmer-cl01",
-    "image": "https://livefull.shop/cdn/shop/files/LiveFull_Smart_Hot_Facial_Towel_Warmer-CL01-B.jpg?v=1784800474&width=150"
+    "image": "https://livefull.shop/cdn/shop/files/LiveFull_Smart_Hot_Facial_Towel_Warmer-CL01-B.jpg?v=1784800474"
+  },
+  {
+    "id": "ember-mug-3",
+    "title": "Ember Mug 3",
+    "brand": "Ember",
+    "category": "Home & Comfort",
+    "price": "$99.99 sale",
+    "status": "Available to order \u00b7 checked November 21",
+    "detail": "Black \u00b7 14 oz \u00b7 Sliding lid + charging coaster included",
+    "description": "A temperature-controlled mug with on-mug controls and a top-rack dishwasher-safe design.",
+    "url": "https://ember.com/products/ember-mug-3?variant=47905282162873",
+    "image": "https://scdn.speedsize.com/c2fd7a9b-205f-4207-98ab-77d0b1777975/ember.com/cdn/shop/files/Ember_Ortho_F_Black.png?v=1788104822&width=1946",
+    "checked": "2026-11-21"
+  },
+  {
+    "id": "pendleton-cloak",
+    "title": "Lindsey Thornburg x Pendleton Blanket Cloak",
+    "brand": "Pendleton",
+    "category": "Clothing & Outerwear",
+    "price": "$1,595",
+    "status": "Available to order \u00b7 checked November 21",
+    "detail": "Oxford Wyeth Trail \u00b7 One Size",
+    "description": "A fully lined wool blanket cloak with a cocoon hood, horn toggle closures, and roomy sleeves for layering.",
+    "url": "https://www.pendleton-usa.com/product/lindsey-thornburg-x-pendleton-blanket-cloak/14001Z.html?dwvar_14001Z_size=ONE+SIZE&dwvar_14001Z_color=X003032",
+    "image": "https://media.pendleton-usa.com/image/upload/f_auto,q_auto,dpr_auto/w_1000//prod/images/14001Z_X003032?_i=AG",
+    "checked": "2026-11-21"
   }
 ]
